@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fzy-GreyLocus
 
 You can use the [editor on GitHub](https://github.com/Fzy-GreyLocus/Fzy-GreyLocus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
