@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/Fzy-GreyLocus/Fzy-GreyLocu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 灰色轨迹
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Beyond乐队
 
 # Header 1
 ## Header 2
